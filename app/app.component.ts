@@ -5,4 +5,4 @@ import { Component} from '@angular/core';
   templateUrl: '<h1>My First Angular GITHUB App</h1>',
   
 })
-export class AppComponent implements OnInit { }
+export class AppComponent z { }
